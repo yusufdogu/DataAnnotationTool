@@ -1,6 +1,3 @@
-
-**
-
 ## Data Annotation Tool 🖼️✍️
 
 A custom-built data annotation tool developed to make dataset preparation easier and more efficient for computer vision and AI projects.
