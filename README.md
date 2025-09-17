@@ -28,13 +28,12 @@ images/ – Input images for labeling
 **1. Clone the repository**
 
 git clone https://github.com/yusufdogu/data-annotation-tool.git
+
 cd data-annotation-tool
 
 **2. Install dependencies**
 
-Make sure you have Python 3.x installed. Install required packages:
-
-pip install -r requirements.txt
+Make sure you have Python 3.x installed. 
 
 **3. Run the notebook**
 
